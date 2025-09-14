@@ -38,7 +38,7 @@
 <body>
   <div class="container">
     <h1>Amara Lakshmi Sravani</h1>
-    <p>Hello! I am Amara Lakshmi Sravani. I am currently working as a Content Moderator at Wipro, a role I started two months ago. My educational background is in Electronics and Communication Engineering, and I graduated in the year 2022.</p>
+    <p>Hello! I am Amara Lakshmi Sravani. I am currently working as a Content Moderator at Wipro, a role I started twenty two months ago. My educational background is in Electronics and Communication Engineering, and I graduated in the year 2022.</p>
     
     <h2>Working Experience</h2>
     <ul>
